@@ -8,4 +8,4 @@
 ## Technical Background
 I have worked with java and python for implementing my UG Projects
 
-![Favorite Meme](https://in.pinterest.com/pin/407083253788834667/)
+![Favorite Meme](https://www.instagram.com/p/CxDomVsPjMF/)
