@@ -1,9 +1,9 @@
 # NVD VAMSI PRAVEEN VURA
 
 ## Interests
-> Playing Cricket
-> Watching Movies
-> Politcis
+- Playing Cricket
+- Watching Movies
+- Politcis
 
 
 ## Technical Background
